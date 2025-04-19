@@ -1,0 +1,1 @@
+•	Developed a real-time traffic sign detection system for e-bike safety, leveraging custom-trained SSD MobileNet and YOLO models for optimized feature extraction and classification on a reduced German Traffic Sign dataset, seamlessly integrated with a web-based visualization interface
